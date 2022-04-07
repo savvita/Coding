@@ -2,7 +2,7 @@
 {
     internal class MacOS: Item
     {
-        public MacOS(): base("MacOs")
+        public MacOS(): base("MacOs", "Desciption for MacOS")
         {
             Items.Add(new Java());
             Items.Add(new Kotlin());

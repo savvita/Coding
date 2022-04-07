@@ -1,6 +1,6 @@
 ﻿namespace Coding
 {
-    internal class Java: Language
+    internal class Java: Item
     {
         public Java(): base("Java", "Description for Java")
         {

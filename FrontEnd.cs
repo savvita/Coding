@@ -2,7 +2,7 @@
 {
     internal class FrontEnd : Item
     {
-        public FrontEnd() : base("FrontEnd")
+        public FrontEnd() : base("FrontEnd", "Desciption for frontend")
         {
             Items.Add(new HtmlCss());
             Items.Add(new React());

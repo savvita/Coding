@@ -1,6 +1,6 @@
 ﻿namespace Coding
 {
-    internal class Ruby : Language
+    internal class Ruby : Item
     {
         public Ruby(): base("Ruby", "Description for Ruby")
         {

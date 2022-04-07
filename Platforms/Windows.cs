@@ -2,7 +2,7 @@
 {
     internal class Windows : Item
     {
-        public Windows() : base("Windows")
+        public Windows() : base("Windows", "Desciption for Windows")
         {
             Items.Add(new Java());
             Items.Add(new Kotlin());

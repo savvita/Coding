@@ -1,6 +1,6 @@
 ﻿namespace Coding
 {
-    internal class Dart : Language
+    internal class Dart : Item
     {
         public Dart(): base("Dart", "Description for Dart")
         {

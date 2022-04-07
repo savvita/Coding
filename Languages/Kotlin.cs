@@ -1,6 +1,6 @@
 ﻿namespace Coding
 {
-    internal class Kotlin : Language
+    internal class Kotlin : Item
     {
         public Kotlin(): base("Kotlin", "Description for Kotlin")
         {

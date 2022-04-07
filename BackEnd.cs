@@ -2,7 +2,7 @@
 {
     internal class BackEnd : Item
     {
-        public BackEnd() : base("BackEnd")
+        public BackEnd() : base("BackEnd", "Desciption for backend")
         {
             Items.Add(new Java());
             Items.Add(new CSharp());
